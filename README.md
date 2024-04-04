@@ -14,8 +14,13 @@ CSS
 # How to use this web application
 Open the index.html file in your web browser.
 
+
+
 Click on the "Record Screen" button to start recording.
 
+
+
 Once you're done recording, click on the "Stop Recording" button.
+
 
 The recorded video will be displayed on the page. Click on the "Download" button to save the video to your device.
